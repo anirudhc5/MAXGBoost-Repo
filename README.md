@@ -1,1 +1,1 @@
-This is the GitHub Repository containing our code from our article titled "MAXGBoost: A Fast Novel Heuristic Approach to Adaptive Learning Rates in Gradient Boosted Decision Trees." The dataset can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+This is the GitHub Repository containing our code from our article titled "MAXGBoost: A Fast Novel Heuristic Approach to Adaptive Learning Rates in Gradient Boosted Decision Trees." The dataset used in the Jupyter Notebook can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
